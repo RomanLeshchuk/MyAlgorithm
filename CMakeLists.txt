@@ -5,5 +5,4 @@ set(CMAKE_CXX_STANDARD 20)
 
 include_directories(include)
 
-add_executable(my_optional src/main.cpp
-        include/my_algorithm.h)
+add_executable(my_optional src/main.cpp)
