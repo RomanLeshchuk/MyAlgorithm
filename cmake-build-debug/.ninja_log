@@ -1,14 +1,4 @@
 # ninja log v6
-4	232	7666180815868587	build.ninja	39f6d5168c3c56f0
-7	2046	7666180649872354	CMakeFiles/my_optional.dir/src/main.cpp.obj	6d2f027f7b6a63d0
-2047	2520	7666180670269747	my_optional.exe	2f487e8d6ab553c0
-5	1684	7666186439621598	CMakeFiles/my_optional.dir/src/main.cpp.obj	6d2f027f7b6a63d0
-1685	1905	7666186456420335	my_optional.exe	2f487e8d6ab553c0
-4	1870	7666187815989908	CMakeFiles/my_optional.dir/src/main.cpp.obj	6d2f027f7b6a63d0
-1871	2128	7666187834655322	my_optional.exe	2f487e8d6ab553c0
-4	1849	7666187949919483	CMakeFiles/my_optional.dir/src/main.cpp.obj	6d2f027f7b6a63d0
-1850	2082	7666187968374121	my_optional.exe	2f487e8d6ab553c0
-5	1858	7666188014256637	CMakeFiles/my_optional.dir/src/main.cpp.obj	6d2f027f7b6a63d0
-1858	2117	7666188032790585	my_optional.exe	2f487e8d6ab553c0
+4	232	7666194346660637	build.ninja	39f6d5168c3c56f0
 5	1754	7666189383612326	CMakeFiles/my_optional.dir/src/main.cpp.obj	6d2f027f7b6a63d0
 1754	1978	7666189401103126	my_optional.exe	2f487e8d6ab553c0

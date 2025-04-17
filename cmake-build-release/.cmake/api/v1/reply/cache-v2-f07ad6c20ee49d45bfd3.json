@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Roman/Desktop/my_algorithm/cmake-build-release"
+			"value" : "c:/Users/Roman/Desktop/MyAlgorithm/cmake-build-release"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Roman/Desktop/my_algorithm/cmake-build-release/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/Roman/Desktop/MyAlgorithm/cmake-build-release/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Roman/Desktop/my_algorithm"
+			"value" : "C:/Users/Roman/Desktop/MyAlgorithm"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1291,7 +1291,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Roman/Desktop/my_algorithm/cmake-build-release"
+			"value" : "C:/Users/Roman/Desktop/MyAlgorithm/cmake-build-release"
 		},
 		{
 			"name" : "my_algorithm_IS_TOP_LEVEL",
@@ -1315,7 +1315,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Roman/Desktop/my_algorithm"
+			"value" : "C:/Users/Roman/Desktop/MyAlgorithm"
 		}
 	],
 	"kind" : "cache",

@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Roman/Desktop/my_algorithm
+# Install script for directory: C:/Users/Roman/Desktop/MyAlgorithm
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -52,6 +52,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "C:/Users/Roman/Desktop/my_algorithm/cmake-build-release/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "C:/Users/Roman/Desktop/MyAlgorithm/cmake-build-release/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

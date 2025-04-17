@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Roman/Desktop/my_algorithm/cmake-build-debug"
+			"value" : "c:/Users/Roman/Desktop/MyAlgorithm/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Roman/Desktop/my_algorithm/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/Roman/Desktop/MyAlgorithm/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Roman/Desktop/my_algorithm"
+			"value" : "C:/Users/Roman/Desktop/MyAlgorithm"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/my_optional"
+			"value" : "C:/Program Files (x86)/my_algorithm"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -1291,7 +1291,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Roman/Desktop/my_algorithm/cmake-build-debug"
+			"value" : "C:/Users/Roman/Desktop/MyAlgorithm/cmake-build-debug"
 		},
 		{
 			"name" : "my_algorithm_IS_TOP_LEVEL",
@@ -1315,43 +1315,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Roman/Desktop/my_algorithm"
-		},
-		{
-			"name" : "my_optional_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/Users/Roman/Desktop/my_algorithm/cmake-build-debug"
-		},
-		{
-			"name" : "my_optional_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "my_optional_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/Users/Roman/Desktop/my_algorithm"
+			"value" : "C:/Users/Roman/Desktop/MyAlgorithm"
 		}
 	],
 	"kind" : "cache",
