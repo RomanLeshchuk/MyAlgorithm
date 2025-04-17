@@ -1,0 +1,21 @@
+# ninja log v6
+3	1875	7666180864350936	CMakeFiles/my_optional.dir/src/main.cpp.obj	a19341b37bcaf4e4
+1878	1971	7666180883099375	my_optional.exe	6bcee0baf3a6a441
+7	1958	7666181048481386	CMakeFiles/my_optional.dir/src/main.cpp.obj	a19341b37bcaf4e4
+1958	2046	7666181067997931	my_optional.exe	6bcee0baf3a6a441
+6	2025	7666181170471444	CMakeFiles/my_optional.dir/src/main.cpp.obj	a19341b37bcaf4e4
+2025	2113	7666181190664402	my_optional.exe	6bcee0baf3a6a441
+8	1844	7666183775414356	CMakeFiles/my_optional.dir/src/main.cpp.obj	a19341b37bcaf4e4
+1845	1932	7666183793772068	my_optional.exe	6bcee0baf3a6a441
+8	1896	7666185106835435	CMakeFiles/my_optional.dir/src/main.cpp.obj	a19341b37bcaf4e4
+1905	2001	7666185125803691	my_optional.exe	6bcee0baf3a6a441
+6	1909	7666186315099491	CMakeFiles/my_optional.dir/src/main.cpp.obj	a19341b37bcaf4e4
+1909	2014	7666186334134137	my_optional.exe	6bcee0baf3a6a441
+8	1795	7666188452304071	CMakeFiles/my_optional.dir/src/main.cpp.obj	a19341b37bcaf4e4
+1796	1890	7666188470185693	my_optional.exe	6bcee0baf3a6a441
+6	2000	7666188615030027	CMakeFiles/my_optional.dir/src/main.cpp.obj	a19341b37bcaf4e4
+2001	2089	7666188634981232	my_optional.exe	6bcee0baf3a6a441
+7	1913	7666188807985640	CMakeFiles/my_optional.dir/src/main.cpp.obj	a19341b37bcaf4e4
+1913	2005	7666188827050002	my_optional.exe	6bcee0baf3a6a441
+6	2008	7666189250109281	CMakeFiles/my_optional.dir/src/main.cpp.obj	a19341b37bcaf4e4
+2008	2099	7666189270126764	my_optional.exe	6bcee0baf3a6a441
